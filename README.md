@@ -13,8 +13,9 @@ Obs: Ainda pretendo subir a aplicação em um servidor web.
 # Tecnologias utilizadas
 ## Back end
 - Java
-- Banco de Dados: Postgresql
+- JUnit
 - JDBC
+- Banco de Dados: Postgresql
 
 ## Implantação em produção
 - Banco de dados: Postgresql
